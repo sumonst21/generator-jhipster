@@ -27,6 +27,7 @@
     "uuid": "9.0.0"
   },
   "devDependencies": {
+    "@angular-architects/module-federation-runtime": "16.0.3",
     "@testing-library/react": "14.0.0",
     "@types/jest": "29.5.1",
     "@types/lodash": "4.14.194",

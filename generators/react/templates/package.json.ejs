@@ -65,6 +65,9 @@
     <%_ } _%>
   },
   "devDependencies": {
+<%_ if (applicationTypeGateway && microfrontend) { _%>
+    "@angular-architects/module-federation-runtime": "<%= nodeDependencies['@angular-architects/module-federation-runtime'] %>",
+<%_ } _%>
     "@testing-library/react": "<%= nodeDependencies['@testing-library/react'] %>",
     "@types/jest": "<%= nodeDependencies['@types/jest'] %>",
     "@types/lodash": "<%= nodeDependencies['@types/lodash'] %>",
