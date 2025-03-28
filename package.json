@@ -96,7 +96,7 @@
     "@yeoman/transform": "1.2.0",
     "@yeoman/types": "1.0.1",
     "aws-sdk": "2.1413.0",
-    "axios": "1.4.0",
+    "axios": "1.8.2",
     "chalk": "4.1.2",
     "chevrotain": "10.5.0",
     "commander": "11.0.0",
@@ -105,12 +105,12 @@
     "didyoumean": "1.2.2",
     "dockerfile-ast": "0.5.0",
     "dot-properties": "1.0.1",
-    "ejs": "3.1.9",
+    "ejs": "3.1.10",
     "escape-string-regexp": "5.0.0",
     "execa": "7.1.1",
     "fast-xml-parser": "4.2.5",
     "glob": "10.3.1",
-    "insight": "0.11.1",
+    "insight": "0.12.0",
     "isbinaryfile": "5.0.0",
     "js-yaml": "4.1.0",
     "latest-version": "7.0.0",
@@ -138,7 +138,7 @@
     "winston": "3.9.0",
     "yaml": "2.3.1",
     "yeoman-environment": "4.0.0-beta.3",
-    "yeoman-generator": "6.0.0-rc.2"
+    "yeoman-generator": "7.5.1"
   },
   "devDependencies": {
     "@node-loaders/esbuildx": "1.2.0",
@@ -174,7 +174,7 @@
     "sort-keys": "5.0.0",
     "typescript": "5.1.6",
     "yeoman-assert": "3.1.1",
-    "yeoman-test": "8.0.0-rc.1"
+    "yeoman-test": "8.3.0"
   },
   "engines": {
     "node": "^18.13.0 || >= 20.2.0",
